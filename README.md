@@ -26,7 +26,6 @@ This study examines the genetic architecture of brain structure, function, behav
 ---
 
 ## Repository Structure
-- **data/**: Contains CTGAN-generated synthetic data simulating the structure of the real dataset. We have provided **100 sample rows** to illustrate the format and structure.
 - **code/**: Jupyter Notebooks and scripts for reproducing key aspects of the analysis.  
   - *Note*: For heritability calculations, only sample code is included due to restrictions on sharing real SNP data.  
 
@@ -50,7 +49,7 @@ This study examines the genetic architecture of brain structure, function, behav
 
 ## Data Availability
 - **ABCD Study**: Real data can be accessed from the [Adolescent Brain Cognitive Development (ABCD) Study](https://abcdstudy.org/) upon approval.
-- **Synthetic Data**: We provide 100 sample rows of synthetic data in the `data/` directory to demonstrate how preprocessing and analyses are performed.
+- **Synthetic Data**: Due to file size limitations, the synthetic dataset is hosted externally. Please follow this link (https://drive.google.com/drive/folders/1M-uzD1k1IiEXAbrHxE_vYVaWtiq4AHx2?usp=sharing) to download the 100-sample CTGAN-generated file.
 - **GWAS Summary Statistics**: Publicly available GWAS summary statistics are referenced in the manuscript. However, only **sample code** is provided here for heritability-related analyses due to privacy and data-use constraints.
 
 ---
